@@ -1,4 +1,4 @@
 # Summary
 
-* [0](gittext/0.md)
+* [了解git](gittext/0.md)
 
